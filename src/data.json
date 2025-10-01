@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "name": "Rahul Mandal",
+    "title": "Data Analyst & MIS Executive",
+    "description": "Thorough and meticulous Data Analyst passionate about helping businesses succeed. Former small business owner with strong technical skills rooted in substantial training as an engineer.",
+    "profileImage": "dp.jpg"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Commerce (B.Com)",
+      "institution": "L.N.M.U Darbhanga",
+      "location": "Darbhanga, Bihar",
+      "year": "2019"
+    },
+    {
+      "degree": "12th Grade",
+      "institution": "M L S M College Darbhanga",
+      "location": "Darbhanga, Bihar",
+      "year": "2016"
+    },
+    {
+      "degree": "10th Grade",
+      "institution": "+2 Jayanand High School",
+      "location": "Darbhanga, Bihar",
+      "year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "title": "MIS Executive (E-commerce)",
+      "company": "Teamlease (Client – Airtel)",
+      "location": "Gurgaon, Haryana",
+      "period": "08/2024 – Present",
+      "responsibilities": [
+        "Making a Dashboard of Pan India",
+        "Data analyzing",
+        "Data Manipulate"
+      ]
+    },
+    {
+      "title": "MIS Executive (E-commerce)",
+      "company": "Everstylish.com",
+      "location": "Gurgaon, Haryana",
+      "period": "03/2023 – 08/2024",
+      "responsibilities": [
+        "Forecasting analysis",
+        "Stock Analysis",
+        "Data Modeling",
+        "Data Relationship"
+      ]
+    },
+    {
+      "title": "MIS Executive (Textile and Fabric industries)",
+      "company": "Chelsea Mills LLP",
+      "location": "Gurgaon, Haryana",
+      "period": "04/2022 - 03/2023",
+      "responsibilities": [
+        "Using Pi chart for sales efficiency",
+        "Using pivot table for data analysis"
+      ]
+    },
+    {
+      "title": "Data Entry Operator",
+      "company": "Fashion Accessories",
+      "location": "Gurgaon, Haryana",
+      "period": "07/2019 - 04/2022",
+      "responsibilities": [
+        "Prepared Stock Analysis of beverages with precision and creativity",
+        "Maintained Cut to Pack in Wfx Software",
+        "Create FPO, GDI, GDN, BOM"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Advanced Excel",
+      "Pivot Table",
+      "Pi Chart",
+      "Macro",
+      "Data Modeling",
+      "Power Query",
+      "Microsoft Office",
+      "Software Implementation"
+    ],
+    "soft": [
+      "Time Management",
+      "Data Analysis",
+      "Business Intelligence",
+      "Problem Solving",
+      "Communication"
+    ]
+  },
+  "contact": {
+    "email": "rahulkumardbg756@gmail.com",
+    "phone": "7759857290",
+    "location": "Gurgaon, Haryana",
+    "languages": "Hindi, English"
+  }
+}
